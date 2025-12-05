@@ -1,4 +1,4 @@
-# 👋 Hey! I'm *[Your Name]*
+# 👋 Hey! I'm *Sandro*
 
 I'm a technology enthusiast and a lifelong learner, always exploring new tools and building projects that help me grow as a developer. Even though I'm at the beginning of my journey, I'm passionate about creating, experimenting, and improving a little more every day — whether it's web development, mobile apps, or backend services.
 
