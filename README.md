@@ -39,6 +39,3 @@ I'm a technology enthusiast and a lifelong learner, always exploring new tools a
 ### **Additional Experience**
 - Global Account Project Management  
 - CRM Platforms & Marketing Automation  
-
-
-## 🤝 Let’s
