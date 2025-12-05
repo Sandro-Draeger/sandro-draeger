@@ -6,36 +6,20 @@ I'm a technology enthusiast and a lifelong learner, always exploring new tools a
 
 ## 🚀 Technologies I Work With
 
-### **Programming Languages**
-- Java  
-- JavaScript  
-- Kotlin  
+### **Programming Languages**            ### **Front-End**
+- Java                                   - HTML5 
+- JavaScript                             - CSS3 
+- Kotlin                                 - Angular 
 - Swift  
-- PHP  
+- PHP   
 
-### **Front-End**
-- HTML5  
-- CSS3  
-- Angular  
+### **Mobile Development**               ### **Back-End / APIs**
+- Android (Kotlin)                       - REST 
+- iOS (Swift)                            - PHP  
 
-### **Mobile Development**
-- Android (Kotlin)  
-- iOS (Swift)  
 
-### **Back-End / APIs**
-- REST  
-- Java Spring  
-- PHP  
-
-### **Databases**
-- SQL  
-
-### **Tools & IDEs**
-- Git  
-- GitHub  
-- VS Code  
-- IntelliJ IDEA  
-
-### **Additional Experience**
-- Global Account Project Management  
-- CRM Platforms & Marketing Automation  
+### **Databases**                        ### **Tools & IDEs**
+- MySQL                                  - Git
+                                         - GitHub  
+                                         - VS Code  
+                                         - IntelliJ IDEA 
