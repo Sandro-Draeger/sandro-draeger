@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hey! I'm *[Your Name]*
 
-<!--
-**Sandro-Draeger/sandro-draeger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a technology enthusiast and a lifelong learner, always exploring new tools and building projects that help me grow as a developer. Even though I'm at the beginning of my journey, I'm passionate about creating, experimenting, and improving a little more every day — whether it's web development, mobile apps, or backend services.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technologies I Work With
+
+### **Programming Languages**
+- Java  
+- JavaScript  
+- Kotlin  
+- Swift  
+- PHP  
+
+### **Front-End**
+- HTML5  
+- CSS3  
+- Angular  
+
+### **Mobile Development**
+- Android (Kotlin)  
+- iOS (Swift)  
+
+### **Back-End / APIs**
+- REST  
+- Java Spring  
+- PHP  
+
+### **Databases**
+- SQL  
+
+### **Tools & IDEs**
+- Git  
+- GitHub  
+- VS Code  
+- IntelliJ IDEA  
+
+### **Additional Experience**
+- Global Account Project Management  
+- CRM Platforms & Marketing Automation  
+
+
+## 🤝 Let’s
