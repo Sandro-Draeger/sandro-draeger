@@ -35,6 +35,6 @@ I'm a technology enthusiast and a lifelong learner, always exploring new tools a
 - VS Code  
 - IntelliJ IDEA  
 
-
-📧 *your-email@example.com*  
-💼 *Your LinkedIn link*  
+## 🤝 Let’s Connect!
+📧 *sandrodraegerpt@gmail.com*  
+💼 *linkedin.com/in/sandrodraeger/*  
